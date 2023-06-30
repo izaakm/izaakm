@@ -1,6 +1,4 @@
-I'm a **Computational Biologist and Data Scientist**.
-I work with experimental collaborators to analyze and integrate multi-omics data using HPC systems.
-I use machine learning to develop models and then work with collaborators to develop new hypotheses and design follow up experiments based on these insights.
+I am a **Computational Biologist** and **Data Scientist** in the High Performance and Scientific Computing group at UTK.
 
 Find out more at <https://izaakm.github.io/>
 
